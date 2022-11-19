@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SaiKishore Reddy
 - 👀 I’m interested in *FULL STACK WEB DEVELOPMENT , ANDROID APP DEVELOPMENT,MACHINE LEARNING*.
-- 🌱 I’m currently learning *FULL STACK WEB DEVELOPMENT , DATA STRUCTURES , ANDROID APP DEVELOPMENT*. 
+- 🌱 I’m currently a *FULL STACK WEB DEVELOPER ,ANDROID APP DEVELOPER*. 
 - 📫 How to reach me - saikishorereddy533@gmail.com
 
 <!---
